@@ -4,7 +4,7 @@
   "description": "Convert nested resources to \"sideloaded\" resources for consumption by frameworks (like Ember.js and jsonapi.org compatible frameworks)",
   "main": "index.js",
   "scripts": {
-    "test": "testem test"
+    "test": "testem ci"
   },
   "repository": {
     "type": "git",
