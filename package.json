@@ -1,0 +1,33 @@
+{
+  "name": "sideload",
+  "version": "0.0.1",
+  "description": "Convert nested resources to \"sideloaded\" resources for consumption by frameworks (like Ember.js and jsonapi.org compatible frameworks)",
+  "main": "index.js",
+  "scripts": {
+    "test": "testem test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/squirkle/sideload.git"
+  },
+  "keywords": [
+    "ember",
+    "json-api",
+    "sideload",
+    "nested"
+  ],
+  "author": "Philip Allen <philip.allen.dev@gmail.com> (http://github.com/squirkle)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/squirkle/sideload/issues"
+  },
+  "homepage": "https://github.com/squirkle/sideload",
+  "dependencies": {
+    "dig-it": "0.0.1",
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "testem": "^0.6.17",
+    "jasmine-node": "^1.14.5"
+  }
+}
