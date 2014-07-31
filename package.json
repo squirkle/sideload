@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/squirkle/sideload",
   "dependencies": {
-    "dig-it": "0.0.1",
+    "dig-it": "0.1.0",
     "lodash": "^2.4.1"
   },
   "devDependencies": {
