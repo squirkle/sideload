@@ -1,6 +1,6 @@
 {
   "name": "sideload",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Convert nested resources to \"sideloaded\" resources for consumption by frameworks (like Ember.js and jsonapi.org compatible frameworks)",
   "main": "index.js",
   "scripts": {
