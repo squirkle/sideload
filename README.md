@@ -1,4 +1,4 @@
-# sideload
+# sideload [![Build Status](https://travis-ci.org/squirkle/sideload.svg?branch=master)](https://travis-ci.org/squirkle/sideload)
 
 Convert nested resources to "sideloaded" resources for consumption by frameworks (like Ember.js) where sideloaded resources are expected.
 
