@@ -9,7 +9,7 @@ npm install sideload
 
 ## Usage
 ```javascript
-var sideload = require('../lib/sideload');
+var sideload = require('sideload');
 
 var data = {
   presidents: [{
@@ -46,17 +46,12 @@ This outputs:
     {
       "id": 0,
       "name": "Theodore Roosevelt",
-      "dogs": [
-        0,
-        1
-      ]
+      "dogs": [0, 1]
     },
     {
       "id": 1,
       "name": "Barack Obama",
-      "dogs": [
-        2
-      ]
+      "dogs": [2]
     }
   ],
   "dogs": [
